@@ -1,0 +1,48 @@
+header {
+  background-image: url("./images/pattern.webp");
+  font-size: 80px; /* made it smaller than specs because it was too big so i resized it to look better for 1080p monitor*/
+  color: khaki;
+  font-weight: bold;
+  text-align: center;
+  padding: 1px;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: url("./images/VgqiT0d.jpg");
+  background-size: cover;
+  color: white;
+  /* added a background image so it isn't so bland */
+}
+
+h2 {
+  color: white;
+  font-size: 60px;
+}
+
+h4 {
+  font-size: 30px;
+}
+
+h2.brush {
+  background-color: mediumspringgreen;
+  padding: 5px;
+}
+
+h2.frames {
+  background-color: lightcoral;
+}
+
+h2.paint {
+  background-color: skyblue;
+}
+
+b {
+  color: blue;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+footer {
+  padding: 20px; /*so text won't be exactly at the bottom*/
+}
